@@ -1,0 +1,41 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+
+api/Models 
+api/pyiwn
+api/Train_Dataset
+api/__pycache__
+api/SavedModels/svd_transformer.pkl
+api/SavedModels/svd_transformer_lem.pkl
+api/SavedModels/svd_model.pkl
+api/SavedModels/svd_model_lem.pkl
+api/Bangla_Spellchecker/__pycache__
+api/Bangla_Spellchecker/weighted-levenshtein
+api/Lemmatization/pyenchant
+api/Bangla_Spellchecker/fuzzy
+api/Lemmatization/Lemmatization
+api/Lemmatization/__pycache__
+api/Lemmatization/Dictionary.pickle
+
+
+
+# testing
+frontend/coverage
+
+# production
+frontend/build
+
+# misc
+frontend/.DS_Store
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
