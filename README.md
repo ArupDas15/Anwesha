@@ -9,48 +9,6 @@
 For details on how to run Anwesha locally, kindly go through the document over <a href="https://github.com/ArupDas15/Bengali_Search_Engine/blob/main/RUN_CODE_INSTRUCTIONS.md">here</a>.
 </details>
 
-## Folder Structure
-```
-
-IndicTrans
-│   .gitignore
-│   apply_bpe_traindevtest_notag.sh         # apply bpe for joint vocab (Train, dev and test)
-│   apply_single_bpe_traindevtest_notag.sh  # apply bpe for seperate vocab   (Train, dev and test)
-│   binarize_training_exp.sh                # binarize the training data after preprocessing for fairseq-training
-│   compute_bleu.sh                         # Compute blue scores with postprocessing after translating with `joint_translate.sh`
-│   indictrans_fairseq_inference.ipynb      # colab example to show how to use model for inference
-│   indicTrans_Finetuning.ipynb             # colab example to show how to use model for finetuning on custom domain data
-│   joint_translate.sh                      # used for inference (see colab inference notebook for more details on usage)
-│   learn_bpe.sh                            # learning joint bpe on preprocessed text
-│   learn_single_bpe.sh                     # learning seperate bpe on preprocessed text
-│   LICENSE
-│   prepare_data.sh                         # prepare data given an experiment dir (this does preprocessing,
-│                                           # building vocab, binarization ) for bilingual training
-│   prepare_data_joint_training.sh          # prepare data given an experiment dir (this does preprocessing,
-│                                           # building vocab, binarization ) for joint training
-│   README.md
-│
-├───legacy                                  # old unused scripts
-├───model_configs                           # custom model configrations are stored here
-│       custom_transformer.py               # contains custom 4x transformer models
-│       __init__.py
-├───inference
-│       custom_interactive.py               # for python wrapper around fairseq-interactive
-│       engine.py                           # python interface for model inference
-└───scripts                                 # stores python scripts that are used by other bash scripts
-    │   add_joint_tags_translate.py         # add lang tags to the processed training data for bilingual training
-    │   add_tags_translate.py               # add lang tags to the processed training data for joint training
-    │   clean_vocab.py                      # clean vocabulary after building with subword_nmt
-    │   concat_joint_data.py                # concatenates lang pair data and creates text files to keep track
-    │                                       # of number of lines in each lang pair.
-    │   extract_non_english_pairs.py        # Mining Indic to Indic pairs from english centric corpus
-    │   postprocess_translate.py            # Postprocesses translations
-    │   preprocess_translate.py             # Preprocess translations and for script conversion (from indic to devnagiri)
-    │   remove_large_sentences.py           # to remove large sentences from training data
-    └───remove_train_devtest_overlaps.py    # Finds and removes overlaped data of train with dev and test sets
-```
-
-
 ## Citing
 
 If you are using any of the resources, please cite the following article:
