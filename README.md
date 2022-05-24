@@ -3,10 +3,12 @@
 	<a href="https://medium.com/">Blog</a> |
 	<a href="https://www.altnlp.org/">Paper</a> 
 </div>
+
 ## Installation
 <details><summary>Click to expand </summary>
 For details on how to run Anwesha locally, kindly go through the document over here:
 </details>
+
 ## Folder Structure
 ```
 
