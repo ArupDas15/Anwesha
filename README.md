@@ -6,7 +6,7 @@
 
 ## Installation
 <details><summary>Click to expand </summary>
-For details on how to run Anwesha locally, kindly go through the document over here:
+For details on how to run Anwesha locally, kindly go through the document over <a href="https://github.com/ArupDas15/Bengali_Search_Engine/blob/main/RUN_CODE_INSTRUCTIONS.md">here</a>.
 </details>
 
 ## Folder Structure
