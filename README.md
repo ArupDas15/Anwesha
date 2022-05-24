@@ -16,12 +16,6 @@ If you are using any of the resources, please cite the following article:
 Bibtex citation to be updated.
 ```
 ### Research Team
-
-- Arup Das, <sub>([AIDB](http://www.cse.iitm.ac.in/lab_details.php?arg=MQ==), [IITM](https://www.iitm.ac.in))</sub>
-- Bibekananda Kundu, <sub>([CDAC](https://www.cdac.in/)</sub>
-- Lokasis Ghorai, <sub>(([AIDB](http://www.cse.iitm.ac.in/lab_details.php?arg=MQ==), [IITM](https://www.iitm.ac.in))</sub>
-- Arjun Kumar Gupta, <sub>([AIDB](http://www.cse.iitm.ac.in/lab_details.php?arg=MQ==), [IITM](https://www.iitm.ac.in))</sub>
-- Sutanu Chakraborti, <sub>([AIDB](http://www.cse.iitm.ac.in/lab_details.php?arg=MQ==), [IITM](https://www.iitm.ac.in))</sub>
 |   | Name		      		| Contact                                                 |	LinkedIn/ Website
 |---|-----------------------|----------------------------------------------------------------------------------------------------------------------|
 | 1 | Arup Das, <sub>([AIDB](http://www.cse.iitm.ac.in/lab_details.php?arg=MQ==), [IITM](https://www.iitm.ac.in))</sub>        		| (mailto:cs20s016@smail.iitm.ac.in))                     | https://www.linkedin.com/in/arup-das-90033a153/
