@@ -12,7 +12,7 @@ For details on how to run Anwesha locally, kindly go through the document over <
 
 ## Citing
 
-If you are using any of the resources, please cite the following article:
+If you are using any of the resources, please cite the following paper:
 ```
 Bibtex citation to be updated.
 ```
