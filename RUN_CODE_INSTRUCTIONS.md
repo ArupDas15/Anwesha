@@ -70,7 +70,6 @@ Open a python console and download the nltk stopwords as shown below:![download_
     
     ![frontend_img1](https://user-images.githubusercontent.com/37553488/150490705-9226d5fd-3fe9-4ad2-a8d0-7a3bd0800928.png)
 
-NOTE: The lemmatised files of the dataset are available over here: https://drive.google.com/file/d/1bOPqbgNmBq1PDnQ2i096d3AfeAXToZhZ/view?usp=sharing
 
 To make the web version operational follow the steps below: 
 1. Sign up  and Download ngrok 
