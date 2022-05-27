@@ -43,9 +43,7 @@ Open a python console and download the nltk stopwords as shown below:![download_
 
           8.2. <Path\ Bengali-Search-Engine> cd api (In my case, the path is C:\Users\Arup\PycharmProjects\ Bengali-Search-Engine) 
     
-          8.3. Download the Train_Dataset from here: https://drive.google.com/file/d/1MGNgiWOx3zo-aFwNI5mdjvnrQaug9opG/view?usp=sharing. <br/> Extract it and store it into the api folder.
-
-          8.4. cd Bangla_Spellchecker <br/>
+          8.3. cd Bangla_Spellchecker <br/>
                git clone https://github.com/yougov/fuzzy.git <br/>
                cd fuzzy <br/>
                Delete fuzzy.pyx and paste [fuzzy.c](https://www.dropbox.com/s/smhiguzxcrk2fbb/fuzzy.c?dl=0) file instead in src folder under fuzzy. <br/>
@@ -54,7 +52,7 @@ Open a python console and download the nltk stopwords as shown below:![download_
                cd .. <br/>
                cd .. <br/>
  
-          8.5. <Path\ Bengali-Search-Engine\api> flask run 
+          8.4. <Path\ Bengali-Search-Engine\api> flask run 
     
 ![backend_img1](https://user-images.githubusercontent.com/37553488/150490101-8668c797-db98-4281-81c5-d5c57c5fcec4.png)
 
