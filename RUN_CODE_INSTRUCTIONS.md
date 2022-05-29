@@ -35,7 +35,7 @@ After clicking on Ok, you can verify the python version by typing the below in a
 Open a python console and download the nltk stopwords as shown below:![download_nltk_stopwords](https://user-images.githubusercontent.com/37553488/152012048-b8f9c785-a725-4038-8244-f7ea2e342495.PNG)
 6. Create a folder models under api directory and copy the files bn_ner.pkl (https://github.com/sagorbrur/bnlp/blob/master/model/bn_ner.pkl) and bn_pos.pkl (https://github.com/sagorbrur/bnlp/blob/master/model/bn_pos.pkl) 
 
-   1. Under the SavedModels folder, download the svd_transformer.pkl file from https://www.dropbox.com/sh/n0erspwlll2zkam/AABifaA0tXzYH9Smn54F9W-Ra?dl=0 
+   1. Under the SavedModels folder, download the svd_model.pkl, svd_model_lem.pkl, svd_transformer.pkl and svd_transformer_lem.pkl file from https://www.dropbox.com/sh/n0erspwlll2zkam/AABifaA0tXzYH9Smn54F9W-Ra?dl=0 
 
       1. First, Run the code in the backend. 
 
