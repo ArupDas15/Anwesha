@@ -13,9 +13,28 @@ For details on how to run Anwesha locally, kindly go through the document over <
 ## Citing
 
 If you are using any of the resources, please cite the following paper:
+<!---
+Comment: Bibtex citation to be updated.
+-->
 ```
-Bibtex citation to be updated.
+
+@misc{Anwesha-paper,
+      title={Anwesha: A Tool for Semantic Search in Bangla}, 
+      author={Das, Arup and Kundu, Bibekananda and Ghorai, Lokasis and Gupta, Arjun Kumar and Chakraborti, Sutanu},
+      year={2022},
+	howpublished = {\url{https://github.com/ArupDas15/Anwesha}},
+	note = "Accepted in The International Conference on Agglutinative Language Technologies as a challenge of Natural Language Processing; Conference date: 07-06-2022 Through 08-06-2022",
+      eprint={to be published soon},
+    }
+
 ```
+
+## Video Presentation
+
+
+https://user-images.githubusercontent.com/37553488/193088553-b1ca6471-c816-434a-a475-63b8b2924d5a.mp4
+
+
 ### Research Team
 |   | Name		      																												| Contact                                                 			|	LinkedIn/ Website
 |---|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------|
