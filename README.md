@@ -1,7 +1,7 @@
 <div align="center">
 	<h1><b><i>Anwesha: A Tool for Semantic Search in Bangla</i></b></h1>
 	<a href="https://medium.com/@arupdas.1si15cs015/anwesha-a-prototype-for-bangla-search-engine-8addc54b1084">Blog</a> |
-	<a href="https://www.altnlp.org/">Paper</a> |
+	<a href="https://ceur-ws.org/Vol-3315/paper03.pdf">Paper</a> |
 	<a href="https://doi.org/10.5281/zenodo.6583149">Dataset</a>
 </div>
 
