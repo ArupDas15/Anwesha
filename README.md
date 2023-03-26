@@ -18,14 +18,17 @@ Comment: Bibtex citation to be updated.
 -->
 ```
 
-@misc{Anwesha-paper,
-      title={Anwesha: A Tool for Semantic Search in Bangla}, 
-      author={Das, Arup and Kundu, Bibekananda and Ghorai, Lokasis and Gupta, Arjun Kumar and Chakraborti, Sutanu},
-      year={2022},
-	howpublished = {\url{https://github.com/ArupDas15/Anwesha}},
-	note = "Accepted in The International Conference on Agglutinative Language Technologies as a challenge of Natural Language Processing; Conference date: 07-06-2022 Through 08-06-2022",
-      eprint={to be published soon},
-    }
+@CONFERENCE{Anwesha-paper,
+	author = {Das, Arup and Kundu, Bibekananda and Ghorai, Lokasis and Gupta, Arjun Kumar and Chakraborti, Sutanu},
+	title = {Anwesha: A Tool for Semantic Search in Bangla},
+	year = {2022},
+	journal = {CEUR Workshop Proceedings},
+	volume = {3315},
+	pages = {20 – 29},
+	booktitle={The International Conference and workshop on Agglutinative Language Technologies as a challenge of Natural Language Processing (ALTNLP)},
+	url = {http://ceur-ws.org/Vol-3315/},
+	type = {Conference paper}
+}
 
 ```
 
